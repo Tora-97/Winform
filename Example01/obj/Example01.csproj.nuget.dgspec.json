@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HoMauHoangLong_2123110504\\Example01\\Example01.csproj": {}
+    "D:\\Winform\\Example01\\Example01.csproj": {}
   },
   "projects": {
-    "D:\\HoMauHoangLong_2123110504\\Example01\\Example01.csproj": {
+    "D:\\Winform\\Example01\\Example01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HoMauHoangLong_2123110504\\Example01\\Example01.csproj",
+        "projectUniqueName": "D:\\Winform\\Example01\\Example01.csproj",
         "projectName": "Example01",
-        "projectPath": "D:\\HoMauHoangLong_2123110504\\Example01\\Example01.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\HoMauHoangLong_2123110504\\Example01\\obj\\",
+        "projectPath": "D:\\Winform\\Example01\\Example01.csproj",
+        "packagesPath": "C:\\Users\\Tora\\.nuget\\packages\\",
+        "outputPath": "D:\\Winform\\Example01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tora\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -60,6 +60,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.22, 8.0.22]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.22, 8.0.22]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.22, 8.0.22]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.22, 8.0.22]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -68,7 +86,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

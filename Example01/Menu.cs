@@ -29,5 +29,29 @@ namespace Example01
             Bai2 ex2 = new Bai2();
             ex2.Show();
         }
+
+        private void btn3_Click(object sender, EventArgs e)
+        {
+            Bai3 ex3 = new Bai3();
+            ex3.Show();
+        }
+
+        private void btn4_Click(object sender, EventArgs e)
+        {
+            Bai4 ex4 = new Bai4();
+            ex4.Show();
+        }
+
+        private void btn5_Click(object sender, EventArgs e)
+        {
+            Bai5 ex5 = new Bai5();
+            ex5.Show();
+        }
+
+        private void btn6_Click(object sender, EventArgs e)
+        {
+            Bai6 ex6 = new Bai6();
+            ex6.Show();
+        }
     }
 }

@@ -12,7 +12,7 @@ namespace Example02
         }
         private void Form1_KeyUp(object sender, KeyEventArgs e)
         {
-            StreamWriter sw = new StreamWriter(@"D:\Key_Logger.txt", true);
+            StreamWriter sw = new StreamWriter(@"D:\Winform\txt\Key_Logger.txt", true);
             sw.Write(e.KeyCode);
             sw.Close();
         }

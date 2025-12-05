@@ -8,7 +8,7 @@ namespace Example01
 {
     public partial class Bai1 : Form
     {
-        string path = @"D:\form.xml";
+        string path = @"D:\Winform\txt\form.xml";
 
         // Khai báo biến toàn cục để dùng chung
         InfoWindows iw = new InfoWindows();
