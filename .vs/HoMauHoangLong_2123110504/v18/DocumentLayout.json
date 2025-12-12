@@ -3,40 +3,48 @@
   "WorkspaceRootPath": "D:\\Winform\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|d:\\winform\\example01\\bai6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|solutionrelative:example01\\bai6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|d:\\winform\\example01\\bai9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|solutionrelative:example01\\bai9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|D:\\Winform\\example01\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|solutionrelative:example01\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|d:\\winform\\example01\\bai8.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|solutionrelative:example01\\bai8.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|d:\\winform\\example01\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|solutionrelative:example01\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|d:\\winform\\example01\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|solutionrelative:example01\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|d:\\winform\\example01\\bai8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|solutionrelative:example01\\bai8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|d:\\winform\\example01\\bai5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|solutionrelative:example01\\bai5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|d:\\winform\\example01\\bai8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|solutionrelative:example01\\bai8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|d:\\winform\\example01\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|solutionrelative:example01\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|d:\\winform\\example01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|solutionrelative:example01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|d:\\winform\\example01\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|solutionrelative:example01\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|d:\\winform\\example01\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|solutionrelative:example01\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|d:\\winform\\example01\\bai7.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|solutionrelative:example01\\bai7.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|d:\\winform\\example01\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|solutionrelative:example01\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|d:\\winform\\example01\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|solutionrelative:example01\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|d:\\winform\\example01\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|solutionrelative:example01\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|d:\\winform\\example01\\bai5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|solutionrelative:example01\\bai5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +58,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Menu.cs [Design]",
               "DocumentMoniker": "D:\\Winform\\Example01\\Menu.cs",
               "RelativeDocumentMoniker": "Example01\\Menu.cs",
@@ -64,57 +72,94 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Bai6.cs [Design]",
-              "DocumentMoniker": "D:\\Winform\\Example01\\Bai6.cs",
-              "RelativeDocumentMoniker": "Example01\\Bai6.cs",
-              "ToolTip": "D:\\Winform\\Example01\\Bai6.cs [Design]",
-              "RelativeToolTip": "Example01\\Bai6.cs [Design]",
+              "Title": "Bai9.cs [Design]",
+              "DocumentMoniker": "D:\\Winform\\Example01\\Bai9.cs",
+              "RelativeDocumentMoniker": "Example01\\Bai9.cs",
+              "ToolTip": "D:\\Winform\\Example01\\Bai9.cs [Design]",
+              "RelativeToolTip": "Example01\\Bai9.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T08:50:43.898Z",
+              "WhenOpened": "2025-12-12T08:59:38.703Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Bai5.cs",
-              "DocumentMoniker": "D:\\Winform\\Example01\\Bai5.cs",
-              "RelativeDocumentMoniker": "Example01\\Bai5.cs",
-              "ToolTip": "D:\\Winform\\Example01\\Bai5.cs",
-              "RelativeToolTip": "Example01\\Bai5.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Bai8.cs",
+              "DocumentMoniker": "D:\\Winform\\Example01\\Bai8.cs",
+              "RelativeDocumentMoniker": "Example01\\Bai8.cs",
+              "ToolTip": "D:\\Winform\\Example01\\Bai8.cs",
+              "RelativeToolTip": "Example01\\Bai8.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T08:37:29.014Z",
+              "WhenOpened": "2025-12-12T07:46:07.609Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Bai4.cs",
-              "DocumentMoniker": "D:\\Winform\\Example01\\Bai4.cs",
-              "RelativeDocumentMoniker": "Example01\\Bai4.cs",
-              "ToolTip": "D:\\Winform\\Example01\\Bai4.cs",
-              "RelativeToolTip": "Example01\\Bai4.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAnwCAAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Bai8.Designer.cs",
+              "DocumentMoniker": "D:\\Winform\\Example01\\Bai8.Designer.cs",
+              "RelativeDocumentMoniker": "Example01\\Bai8.Designer.cs",
+              "ToolTip": "D:\\Winform\\Example01\\Bai8.Designer.cs",
+              "RelativeToolTip": "Example01\\Bai8.Designer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T08:36:12.384Z",
+              "WhenOpened": "2025-12-12T07:46:03.57Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Winform\\Example01\\Program.cs",
-              "RelativeDocumentMoniker": "Example01\\Program.cs",
-              "ToolTip": "D:\\Winform\\Example01\\Program.cs",
-              "RelativeToolTip": "Example01\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Title": "Bai8.cs [Design]",
+              "DocumentMoniker": "D:\\Winform\\Example01\\Bai8.cs",
+              "RelativeDocumentMoniker": "Example01\\Bai8.cs",
+              "ToolTip": "D:\\Winform\\Example01\\Bai8.cs [Design]",
+              "RelativeToolTip": "Example01\\Bai8.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T08:35:58.795Z",
+              "WhenOpened": "2025-12-12T07:30:13.959Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bai7.cs",
+              "DocumentMoniker": "D:\\Winform\\Example01\\Bai7.cs",
+              "RelativeDocumentMoniker": "Example01\\Bai7.cs",
+              "ToolTip": "D:\\Winform\\Example01\\Bai7.cs",
+              "RelativeToolTip": "Example01\\Bai7.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAkwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T06:44:59.647Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
+              "Title": "Bai7.Designer.cs",
+              "DocumentMoniker": "D:\\Winform\\Example01\\Bai7.Designer.cs",
+              "RelativeDocumentMoniker": "Example01\\Bai7.Designer.cs",
+              "ToolTip": "D:\\Winform\\Example01\\Bai7.Designer.cs",
+              "RelativeToolTip": "Example01\\Bai7.Designer.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAmwJwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T06:44:45.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bai7.cs [Design]",
+              "DocumentMoniker": "D:\\Winform\\Example01\\Bai7.cs",
+              "RelativeDocumentMoniker": "Example01\\Bai7.cs",
+              "ToolTip": "D:\\Winform\\Example01\\Bai7.cs [Design]",
+              "RelativeToolTip": "Example01\\Bai7.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T06:36:44.002Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Bai5.Designer.cs",
               "DocumentMoniker": "D:\\Winform\\Example01\\Bai5.Designer.cs",
               "RelativeDocumentMoniker": "Example01\\Bai5.Designer.cs",
@@ -128,37 +173,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Bai5.cs [Design]",
-              "DocumentMoniker": "D:\\Winform\\Example01\\Bai5.cs",
-              "RelativeDocumentMoniker": "Example01\\Bai5.cs",
-              "ToolTip": "D:\\Winform\\Example01\\Bai5.cs [Design]",
-              "RelativeToolTip": "Example01\\Bai5.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T08:11:53.876Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Menu.Designer.cs",
               "DocumentMoniker": "D:\\Winform\\Example01\\Menu.Designer.cs",
               "RelativeDocumentMoniker": "Example01\\Menu.Designer.cs",
               "ToolTip": "D:\\Winform\\Example01\\Menu.Designer.cs",
               "RelativeToolTip": "Example01\\Menu.Designer.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAEwGcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-05T06:39:44.082Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Menu.cs",
               "DocumentMoniker": "D:\\Winform\\Example01\\Menu.cs",
               "RelativeDocumentMoniker": "Example01\\Menu.cs",
               "ToolTip": "D:\\Winform\\Example01\\Menu.cs",
               "RelativeToolTip": "Example01\\Menu.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAvwDYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAnwEEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-05T06:39:43.887Z",
               "EditorCaption": ""

@@ -53,5 +53,17 @@ namespace Example01
             Bai6 ex6 = new Bai6();
             ex6.Show();
         }
+
+        private void btn7_Click(object sender, EventArgs e)
+        {
+            Bai7 ex7 = new Bai7();
+            ex7.Show();
+        }
+
+        private void btn8_Click(object sender, EventArgs e)
+        {
+            Bai8 ex8 = new Bai8();
+            ex8.Show();
+        }
     }
 }

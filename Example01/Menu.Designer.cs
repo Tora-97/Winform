@@ -34,6 +34,8 @@
             btn4 = new Button();
             btn5 = new Button();
             btn6 = new Button();
+            btn7 = new Button();
+            btn8 = new Button();
             SuspendLayout();
             // 
             // btn1
@@ -98,15 +100,39 @@
             btn6.Name = "btn6";
             btn6.Size = new Size(160, 108);
             btn6.TabIndex = 5;
-            btn6.Text = "B6_";
+            btn6.Text = "B6_MultipleCal";
             btn6.UseVisualStyleBackColor = true;
             btn6.Click += btn6_Click;
+            // 
+            // btn7
+            // 
+            btn7.Location = new Point(237, 170);
+            btn7.Margin = new Padding(4, 5, 4, 5);
+            btn7.Name = "btn7";
+            btn7.Size = new Size(160, 108);
+            btn7.TabIndex = 6;
+            btn7.Text = "B7_SimpleCal";
+            btn7.UseVisualStyleBackColor = true;
+            btn7.Click += btn7_Click;
+            // 
+            // btn8
+            // 
+            btn8.Location = new Point(451, 170);
+            btn8.Margin = new Padding(4, 5, 4, 5);
+            btn8.Name = "btn8";
+            btn8.Size = new Size(160, 108);
+            btn8.TabIndex = 7;
+            btn8.Text = "B8_LargerCal";
+            btn8.UseVisualStyleBackColor = true;
+            btn8.Click += btn8_Click;
             // 
             // Menu
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1143, 750);
+            Controls.Add(btn8);
+            Controls.Add(btn7);
             Controls.Add(btn6);
             Controls.Add(btn5);
             Controls.Add(btn4);
@@ -127,5 +153,7 @@
         private Button btn4;
         private Button btn5;
         private Button btn6;
+        private Button btn7;
+        private Button btn8;
     }
 }
