@@ -41,3 +41,8 @@ D:\Winform\Example01\obj\Debug\net8.0-windows\Example01.Bai5.resources
 D:\Winform\Example01\obj\Debug\net8.0-windows\Example01.Bai6.resources
 D:\Winform\Example01\obj\Debug\net8.0-windows\Example01.Bai7.resources
 D:\Winform\Example01\obj\Debug\net8.0-windows\Example01.Bai8.resources
+D:\Winform\Example01\obj\Debug\net8.0-windows\Example01.Bai9.resources
+D:\Winform\Example01\obj\Debug\net8.0-windows\Example01.Bai10.resources
+D:\Winform\Example01\obj\Debug\net8.0-windows\Example01.Bai11.resources
+D:\Winform\Example01\obj\Debug\net8.0-windows\Example01.Bai12.resources
+D:\Winform\Example01\obj\Debug\net8.0-windows\Example01.Bai13.resources

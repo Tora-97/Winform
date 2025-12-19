@@ -3,44 +3,52 @@
   "WorkspaceRootPath": "D:\\Winform\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|d:\\winform\\example01\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|solutionrelative:example01\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{483BD718-A174-437D-B8CA-3F13ECF09094}|Game\\CatchTheEggGame.csproj|d:\\winform\\game\\formgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483BD718-A174-437D-B8CA-3F13ECF09094}|Game\\CatchTheEggGame.csproj|solutionrelative:game\\formgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483BD718-A174-437D-B8CA-3F13ECF09094}|Game\\CatchTheEggGame.csproj|d:\\winform\\game\\formgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{483BD718-A174-437D-B8CA-3F13ECF09094}|Game\\CatchTheEggGame.csproj|solutionrelative:game\\formgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483BD718-A174-437D-B8CA-3F13ECF09094}|Game\\CatchTheEggGame.csproj|d:\\winform\\game\\starter.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483BD718-A174-437D-B8CA-3F13ECF09094}|Game\\CatchTheEggGame.csproj|solutionrelative:game\\starter.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483BD718-A174-437D-B8CA-3F13ECF09094}|Game\\CatchTheEggGame.csproj|d:\\winform\\game\\starter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{483BD718-A174-437D-B8CA-3F13ECF09094}|Game\\CatchTheEggGame.csproj|solutionrelative:game\\starter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|D:\\Winform\\example01\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|solutionrelative:example01\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|d:\\winform\\example01\\bai8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|solutionrelative:example01\\bai8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{483BD718-A174-437D-B8CA-3F13ECF09094}|Game\\CatchTheEggGame.csproj|d:\\winform\\game\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{483BD718-A174-437D-B8CA-3F13ECF09094}|Game\\CatchTheEggGame.csproj|solutionrelative:game\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|d:\\winform\\example01\\bai8.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|solutionrelative:example01\\bai8.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|d:\\winform\\example01\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|solutionrelative:example01\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|d:\\winform\\example01\\bai8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|solutionrelative:example01\\bai8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|d:\\winform\\example01\\bai13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|solutionrelative:example01\\bai13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|D:\\Winform\\example01\\bai13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|solutionrelative:example01\\bai13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|d:\\winform\\example01\\bai13.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|solutionrelative:example01\\bai13.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|d:\\winform\\example01\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|solutionrelative:example01\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|d:\\winform\\example01\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|solutionrelative:example01\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|d:\\winform\\example01\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|solutionrelative:example01\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|d:\\winform\\example01\\bai7.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|solutionrelative:example01\\bai7.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|d:\\winform\\example01\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|solutionrelative:example01\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|d:\\winform\\example01\\bai5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{453AB78E-4EB8-4F71-8007-1174B8B899FD}|Example01\\Example01.csproj|solutionrelative:example01\\bai5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,11 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Menu.cs [Design]",
               "DocumentMoniker": "D:\\Winform\\Example01\\Menu.cs",
               "RelativeDocumentMoniker": "Example01\\Menu.cs",
@@ -67,117 +75,142 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Bai8.cs",
-              "DocumentMoniker": "D:\\Winform\\Example01\\Bai8.cs",
-              "RelativeDocumentMoniker": "Example01\\Bai8.cs",
-              "ToolTip": "D:\\Winform\\Example01\\Bai8.cs",
-              "RelativeToolTip": "Example01\\Bai8.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T07:46:07.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Bai8.Designer.cs",
-              "DocumentMoniker": "D:\\Winform\\Example01\\Bai8.Designer.cs",
-              "RelativeDocumentMoniker": "Example01\\Bai8.Designer.cs",
-              "ToolTip": "D:\\Winform\\Example01\\Bai8.Designer.cs",
-              "RelativeToolTip": "Example01\\Bai8.Designer.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T07:46:03.57Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Bai8.cs [Design]",
-              "DocumentMoniker": "D:\\Winform\\Example01\\Bai8.cs",
-              "RelativeDocumentMoniker": "Example01\\Bai8.cs",
-              "ToolTip": "D:\\Winform\\Example01\\Bai8.cs [Design]",
-              "RelativeToolTip": "Example01\\Bai8.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T07:30:13.959Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Bai7.cs",
-              "DocumentMoniker": "D:\\Winform\\Example01\\Bai7.cs",
-              "RelativeDocumentMoniker": "Example01\\Bai7.cs",
-              "ToolTip": "D:\\Winform\\Example01\\Bai7.cs",
-              "RelativeToolTip": "Example01\\Bai7.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAkwDgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T06:44:59.647Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Bai7.Designer.cs",
-              "DocumentMoniker": "D:\\Winform\\Example01\\Bai7.Designer.cs",
-              "RelativeDocumentMoniker": "Example01\\Bai7.Designer.cs",
-              "ToolTip": "D:\\Winform\\Example01\\Bai7.Designer.cs",
-              "RelativeToolTip": "Example01\\Bai7.Designer.cs",
-              "ViewState": "AgIAAIYAAAAAAAAAAAAmwJwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T06:44:45.865Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Bai7.cs [Design]",
-              "DocumentMoniker": "D:\\Winform\\Example01\\Bai7.cs",
-              "RelativeDocumentMoniker": "Example01\\Bai7.cs",
-              "ToolTip": "D:\\Winform\\Example01\\Bai7.cs [Design]",
-              "RelativeToolTip": "Example01\\Bai7.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T06:36:44.002Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Bai5.Designer.cs",
-              "DocumentMoniker": "D:\\Winform\\Example01\\Bai5.Designer.cs",
-              "RelativeDocumentMoniker": "Example01\\Bai5.Designer.cs",
-              "ToolTip": "D:\\Winform\\Example01\\Bai5.Designer.cs",
-              "RelativeToolTip": "Example01\\Bai5.Designer.cs",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAlwIQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T08:34:37.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Menu.Designer.cs",
-              "DocumentMoniker": "D:\\Winform\\Example01\\Menu.Designer.cs",
-              "RelativeDocumentMoniker": "Example01\\Menu.Designer.cs",
-              "ToolTip": "D:\\Winform\\Example01\\Menu.Designer.cs",
-              "RelativeToolTip": "Example01\\Menu.Designer.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAkwCMAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T06:39:44.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Menu.cs",
               "DocumentMoniker": "D:\\Winform\\Example01\\Menu.cs",
               "RelativeDocumentMoniker": "Example01\\Menu.cs",
               "ToolTip": "D:\\Winform\\Example01\\Menu.cs",
               "RelativeToolTip": "Example01\\Menu.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAvwEEAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAEwGIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-05T06:39:43.887Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Starter.cs [Design]",
+              "DocumentMoniker": "D:\\Winform\\Game\\Starter.cs",
+              "RelativeDocumentMoniker": "Game\\Starter.cs",
+              "ToolTip": "D:\\Winform\\Game\\Starter.cs [Design]",
+              "RelativeToolTip": "Game\\Starter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T07:53:39.069Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Starter.Designer.cs",
+              "DocumentMoniker": "D:\\Winform\\Game\\Starter.Designer.cs",
+              "RelativeDocumentMoniker": "Game\\Starter.Designer.cs",
+              "ToolTip": "D:\\Winform\\Game\\Starter.Designer.cs",
+              "RelativeToolTip": "Game\\Starter.Designer.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAIAwwDYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T07:53:14.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\Winform\\Game\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Game\\Properties\\Resources.resx",
+              "ToolTip": "D:\\Winform\\Game\\Properties\\Resources.resx",
+              "RelativeToolTip": "Game\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-19T07:52:50.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormGame.cs",
+              "DocumentMoniker": "D:\\Winform\\Game\\FormGame.cs",
+              "RelativeDocumentMoniker": "Game\\FormGame.cs",
+              "ToolTip": "D:\\Winform\\Game\\FormGame.cs",
+              "RelativeToolTip": "Game\\FormGame.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAkwGAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T06:29:23.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormGame.cs [Design]",
+              "DocumentMoniker": "D:\\Winform\\Game\\FormGame.cs",
+              "RelativeDocumentMoniker": "Game\\FormGame.cs",
+              "ToolTip": "D:\\Winform\\Game\\FormGame.cs [Design]",
+              "RelativeToolTip": "Game\\FormGame.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T06:29:20.502Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Song.cs",
+              "DocumentMoniker": "D:\\Winform\\Example01\\Song.cs",
+              "RelativeDocumentMoniker": "Example01\\Song.cs",
+              "ToolTip": "D:\\Winform\\Example01\\Song.cs",
+              "RelativeToolTip": "Example01\\Song.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T05:59:50.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bai13.cs",
+              "DocumentMoniker": "D:\\Winform\\Example01\\Bai13.cs",
+              "RelativeDocumentMoniker": "Example01\\Bai13.cs",
+              "ToolTip": "D:\\Winform\\Example01\\Bai13.cs",
+              "RelativeToolTip": "Example01\\Bai13.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAewGgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T03:36:58.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bai13.Designer.cs",
+              "DocumentMoniker": "D:\\Winform\\Example01\\Bai13.Designer.cs",
+              "RelativeDocumentMoniker": "Example01\\Bai13.Designer.cs",
+              "ToolTip": "D:\\Winform\\Example01\\Bai13.Designer.cs",
+              "RelativeToolTip": "Example01\\Bai13.Designer.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAnwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T03:34:51.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bai13.cs [Design]",
+              "DocumentMoniker": "D:\\Winform\\Example01\\Bai13.cs",
+              "RelativeDocumentMoniker": "Example01\\Bai13.cs",
+              "ToolTip": "D:\\Winform\\Example01\\Bai13.cs [Design]",
+              "RelativeToolTip": "Example01\\Bai13.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T03:29:47.693Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Menu.Designer.cs",
+              "DocumentMoniker": "D:\\Winform\\Example01\\Menu.Designer.cs",
+              "RelativeDocumentMoniker": "Example01\\Menu.Designer.cs",
+              "ToolTip": "D:\\Winform\\Example01\\Menu.Designer.cs",
+              "RelativeToolTip": "Example01\\Menu.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T06:39:44.082Z",
               "EditorCaption": ""
             }
           ]

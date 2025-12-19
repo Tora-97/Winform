@@ -1,0 +1,7 @@
+D:\Winform\Game\obj\Debug\net10.0-windows\Game.Form1.resources
+D:\Winform\Game\obj\Debug\net10.0-windows\Game.csproj.GenerateResource.cache
+D:\Winform\Game\obj\Debug\net10.0-windows\Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Winform\Game\obj\Debug\net10.0-windows\Game.AssemblyInfoInputs.cache
+D:\Winform\Game\obj\Debug\net10.0-windows\Game.AssemblyInfo.cs
+D:\Winform\Game\obj\Debug\net10.0-windows\Game.csproj.CoreCompileInputs.cache
+D:\Winform\Game\obj\Debug\net10.0-windows\Game.sourcelink.json

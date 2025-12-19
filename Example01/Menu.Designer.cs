@@ -36,6 +36,11 @@
             btn6 = new Button();
             btn7 = new Button();
             btn8 = new Button();
+            btn9 = new Button();
+            button1 = new Button();
+            btn11 = new Button();
+            btn12 = new Button();
+            button2 = new Button();
             SuspendLayout();
             // 
             // btn1
@@ -84,7 +89,7 @@
             // 
             // btn5
             // 
-            btn5.Location = new Point(886, 20);
+            btn5.Location = new Point(877, 20);
             btn5.Margin = new Padding(4, 5, 4, 5);
             btn5.Name = "btn5";
             btn5.Size = new Size(160, 110);
@@ -126,11 +131,71 @@
             btn8.UseVisualStyleBackColor = true;
             btn8.Click += btn8_Click;
             // 
+            // btn9
+            // 
+            btn9.Location = new Point(666, 170);
+            btn9.Margin = new Padding(4, 5, 4, 5);
+            btn9.Name = "btn9";
+            btn9.Size = new Size(160, 108);
+            btn9.TabIndex = 8;
+            btn9.Text = "B9_ComboBox";
+            btn9.UseVisualStyleBackColor = true;
+            btn9.Click += btn9_Click;
+            // 
+            // button1
+            // 
+            button1.Location = new Point(877, 170);
+            button1.Margin = new Padding(4, 5, 4, 5);
+            button1.Name = "button1";
+            button1.Size = new Size(160, 108);
+            button1.TabIndex = 9;
+            button1.Text = "B10_Radio&Checkbox";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
+            // 
+            // btn11
+            // 
+            btn11.Location = new Point(17, 321);
+            btn11.Margin = new Padding(4, 5, 4, 5);
+            btn11.Name = "btn11";
+            btn11.Size = new Size(160, 108);
+            btn11.TabIndex = 10;
+            btn11.Text = "B11_DateTime";
+            btn11.UseVisualStyleBackColor = true;
+            btn11.Click += btn11_Click;
+            // 
+            // btn12
+            // 
+            btn12.Location = new Point(237, 321);
+            btn12.Margin = new Padding(4, 5, 4, 5);
+            btn12.Name = "btn12";
+            btn12.Size = new Size(160, 108);
+            btn12.TabIndex = 11;
+            btn12.Text = "B12_Student";
+            btn12.UseVisualStyleBackColor = true;
+            btn12.Click += btn12_Click;
+            // 
+            // button2
+            // 
+            button2.Location = new Point(454, 321);
+            button2.Margin = new Padding(4, 5, 4, 5);
+            button2.Name = "button2";
+            button2.Size = new Size(160, 108);
+            button2.TabIndex = 12;
+            button2.Text = "B13_Song";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
+            // 
             // Menu
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1143, 750);
+            ClientSize = new Size(1068, 750);
+            Controls.Add(button2);
+            Controls.Add(btn12);
+            Controls.Add(btn11);
+            Controls.Add(button1);
+            Controls.Add(btn9);
             Controls.Add(btn8);
             Controls.Add(btn7);
             Controls.Add(btn6);
@@ -155,5 +220,10 @@
         private Button btn6;
         private Button btn7;
         private Button btn8;
+        private Button btn9;
+        private Button button1;
+        private Button btn11;
+        private Button btn12;
+        private Button button2;
     }
 }
