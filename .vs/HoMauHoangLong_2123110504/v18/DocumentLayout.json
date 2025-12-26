@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{483BD718-A174-437D-B8CA-3F13ECF09094}|Game\\CatchTheEggGame.csproj|solutionrelative:game\\formgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{483BD718-A174-437D-B8CA-3F13ECF09094}|Game\\CatchTheEggGame.csproj|d:\\winform\\game\\formgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{483BD718-A174-437D-B8CA-3F13ECF09094}|Game\\CatchTheEggGame.csproj|D:\\Winform\\game\\formgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{483BD718-A174-437D-B8CA-3F13ECF09094}|Game\\CatchTheEggGame.csproj|solutionrelative:game\\formgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{483BD718-A174-437D-B8CA-3F13ECF09094}|Game\\CatchTheEggGame.csproj|solutionrelative:game\\starter.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{483BD718-A174-437D-B8CA-3F13ECF09094}|Game\\CatchTheEggGame.csproj|d:\\winform\\game\\starter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{483BD718-A174-437D-B8CA-3F13ECF09094}|Game\\CatchTheEggGame.csproj|D:\\Winform\\game\\starter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{483BD718-A174-437D-B8CA-3F13ECF09094}|Game\\CatchTheEggGame.csproj|solutionrelative:game\\starter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -70,8 +70,7 @@
               "RelativeToolTip": "Example01\\Menu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-05T06:39:45.54Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -84,20 +83,7 @@
               "ViewState": "AgIAAFUAAAAAAAAAAAAEwGIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-05T06:39:43.887Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Starter.cs [Design]",
-              "DocumentMoniker": "D:\\Winform\\Game\\Starter.cs",
-              "RelativeDocumentMoniker": "Game\\Starter.cs",
-              "ToolTip": "D:\\Winform\\Game\\Starter.cs [Design]",
-              "RelativeToolTip": "Game\\Starter.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T07:53:39.069Z",
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -109,8 +95,31 @@
               "RelativeToolTip": "Game\\Starter.Designer.cs",
               "ViewState": "AgIAACUAAAAAAAAAAIAwwDYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T07:53:14.631Z",
+              "WhenOpened": "2025-12-19T07:53:14.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormGame.cs",
+              "DocumentMoniker": "D:\\Winform\\Game\\FormGame.cs",
+              "RelativeDocumentMoniker": "Game\\FormGame.cs",
+              "ToolTip": "D:\\Winform\\Game\\FormGame.cs",
+              "RelativeToolTip": "Game\\FormGame.cs",
+              "ViewState": "AgIAADwCAAAAAAAAAAAkwE4CAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T06:29:23.985Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Starter.cs [Design]",
+              "DocumentMoniker": "D:\\Winform\\Game\\Starter.cs",
+              "RelativeDocumentMoniker": "Game\\Starter.cs",
+              "ToolTip": "D:\\Winform\\Game\\Starter.cs [Design]",
+              "RelativeToolTip": "Game\\Starter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T07:53:39.069Z"
             },
             {
               "$type": "Document",
@@ -121,21 +130,7 @@
               "ToolTip": "D:\\Winform\\Game\\Properties\\Resources.resx",
               "RelativeToolTip": "Game\\Properties\\Resources.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-12-19T07:52:50.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormGame.cs",
-              "DocumentMoniker": "D:\\Winform\\Game\\FormGame.cs",
-              "RelativeDocumentMoniker": "Game\\FormGame.cs",
-              "ToolTip": "D:\\Winform\\Game\\FormGame.cs",
-              "RelativeToolTip": "Game\\FormGame.cs",
-              "ViewState": "AgIAAKoAAAAAAAAAAAAIwA8BAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T06:29:23.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-19T07:52:50.158Z"
             },
             {
               "$type": "Document",
@@ -146,8 +141,7 @@
               "ToolTip": "D:\\Winform\\Game\\FormGame.cs [Design]",
               "RelativeToolTip": "Game\\FormGame.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T06:29:20.502Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-12-19T06:29:20.502Z"
             },
             {
               "$type": "Document",
@@ -159,8 +153,7 @@
               "RelativeToolTip": "Example01\\Song.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T05:59:50.364Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-19T05:59:50.364Z"
             },
             {
               "$type": "Document",
@@ -185,8 +178,7 @@
               "RelativeToolTip": "Example01\\Bai13.Designer.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAnwF8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T03:34:51.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-19T03:34:51.562Z"
             },
             {
               "$type": "Document",
@@ -197,8 +189,7 @@
               "ToolTip": "D:\\Winform\\Example01\\Bai13.cs [Design]",
               "RelativeToolTip": "Example01\\Bai13.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T03:29:47.693Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-12-19T03:29:47.693Z"
             },
             {
               "$type": "Document",
@@ -210,8 +201,7 @@
               "RelativeToolTip": "Example01\\Menu.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T06:39:44.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-05T06:39:44.082Z"
             }
           ]
         }
