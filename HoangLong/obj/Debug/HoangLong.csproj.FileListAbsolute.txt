@@ -1,0 +1,10 @@
+D:\HoangLong\HoangLong\bin\Debug\HoangLong.exe.config
+D:\HoangLong\HoangLong\bin\Debug\HoangLong.exe
+D:\HoangLong\HoangLong\bin\Debug\HoangLong.pdb
+D:\HoangLong\HoangLong\obj\Debug\HoangLong.csproj.AssemblyReference.cache
+D:\HoangLong\HoangLong\obj\Debug\HoangLong.Form1.resources
+D:\HoangLong\HoangLong\obj\Debug\HoangLong.Properties.Resources.resources
+D:\HoangLong\HoangLong\obj\Debug\HoangLong.csproj.GenerateResource.cache
+D:\HoangLong\HoangLong\obj\Debug\HoangLong.csproj.CoreCompileInputs.cache
+D:\HoangLong\HoangLong\obj\Debug\HoangLong.exe
+D:\HoangLong\HoangLong\obj\Debug\HoangLong.pdb
