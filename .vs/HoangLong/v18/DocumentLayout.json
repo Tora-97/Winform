@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HoangLong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA5B022-A067-4B0B-B135-E2731BD0A3C2}|HoangLong\\HoangLong.csproj|d:\\hoanglong\\hoanglong\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA5B022-A067-4B0B-B135-E2731BD0A3C2}|HoangLong\\HoangLong.csproj|solutionrelative:hoanglong\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA5B022-A067-4B0B-B135-E2731BD0A3C2}|HoangLong\\HoangLong.csproj|D:\\HoangLong\\hoanglong\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9EA5B022-A067-4B0B-B135-E2731BD0A3C2}|HoangLong\\HoangLong.csproj|solutionrelative:hoanglong\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA5B022-A067-4B0B-B135-E2731BD0A3C2}|HoangLong\\HoangLong.csproj|D:\\HoangLong\\hoanglong\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA5B022-A067-4B0B-B135-E2731BD0A3C2}|HoangLong\\HoangLong.csproj|solutionrelative:hoanglong\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA5B022-A067-4B0B-B135-E2731BD0A3C2}|HoangLong\\HoangLong.csproj|D:\\HoangLong\\hoanglong\\changepasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA5B022-A067-4B0B-B135-E2731BD0A3C2}|HoangLong\\HoangLong.csproj|solutionrelative:hoanglong\\changepasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA5B022-A067-4B0B-B135-E2731BD0A3C2}|HoangLong\\HoangLong.csproj|D:\\HoangLong\\hoanglong\\changepasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9EA5B022-A067-4B0B-B135-E2731BD0A3C2}|HoangLong\\HoangLong.csproj|solutionrelative:hoanglong\\changepasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA5B022-A067-4B0B-B135-E2731BD0A3C2}|HoangLong\\HoangLong.csproj|D:\\HoangLong\\hoanglong\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA5B022-A067-4B0B-B135-E2731BD0A3C2}|HoangLong\\HoangLong.csproj|solutionrelative:hoanglong\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA5B022-A067-4B0B-B135-E2731BD0A3C2}|HoangLong\\HoangLong.csproj|D:\\HoangLong\\hoanglong\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9EA5B022-A067-4B0B-B135-E2731BD0A3C2}|HoangLong\\HoangLong.csproj|solutionrelative:hoanglong\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA5B022-A067-4B0B-B135-E2731BD0A3C2}|HoangLong\\HoangLong.csproj|D:\\HoangLong\\hoanglong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA5B022-A067-4B0B-B135-E2731BD0A3C2}|HoangLong\\HoangLong.csproj|solutionrelative:hoanglong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA5B022-A067-4B0B-B135-E2731BD0A3C2}|HoangLong\\HoangLong.csproj|D:\\HoangLong\\hoanglong\\changepasswordform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA5B022-A067-4B0B-B135-E2731BD0A3C2}|HoangLong\\HoangLong.csproj|solutionrelative:hoanglong\\changepasswordform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA5B022-A067-4B0B-B135-E2731BD0A3C2}|HoangLong\\HoangLong.csproj|D:\\HoangLong\\hoanglong\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA5B022-A067-4B0B-B135-E2731BD0A3C2}|HoangLong\\HoangLong.csproj|solutionrelative:hoanglong\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChangePasswordForm.cs [Design]",
+              "DocumentMoniker": "D:\\HoangLong\\HoangLong\\ChangePasswordForm.cs",
+              "RelativeDocumentMoniker": "HoangLong\\ChangePasswordForm.cs",
+              "ToolTip": "D:\\HoangLong\\HoangLong\\ChangePasswordForm.cs [Design]",
+              "RelativeToolTip": "HoangLong\\ChangePasswordForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T14:18:13.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChangePasswordForm.cs",
+              "DocumentMoniker": "D:\\HoangLong\\HoangLong\\ChangePasswordForm.cs",
+              "RelativeDocumentMoniker": "HoangLong\\ChangePasswordForm.cs",
+              "ToolTip": "D:\\HoangLong\\HoangLong\\ChangePasswordForm.cs",
+              "RelativeToolTip": "HoangLong\\ChangePasswordForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T14:18:14.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "D:\\HoangLong\\HoangLong\\Main.cs",
+              "RelativeDocumentMoniker": "HoangLong\\Main.cs",
+              "ToolTip": "D:\\HoangLong\\HoangLong\\Main.cs [Design]",
+              "RelativeToolTip": "HoangLong\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T14:17:52.61Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\HoangLong\\HoangLong\\Main.cs",
+              "RelativeDocumentMoniker": "HoangLong\\Main.cs",
+              "ToolTip": "D:\\HoangLong\\HoangLong\\Main.cs",
+              "RelativeToolTip": "HoangLong\\Main.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAAcwOcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T14:17:54.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.Designer.cs",
+              "DocumentMoniker": "D:\\HoangLong\\HoangLong\\Main.Designer.cs",
+              "RelativeDocumentMoniker": "HoangLong\\Main.Designer.cs",
+              "ToolTip": "D:\\HoangLong\\HoangLong\\Main.Designer.cs",
+              "RelativeToolTip": "HoangLong\\Main.Designer.cs",
+              "ViewState": "AgIAALoBAAAAAAAAAAASwMoBAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T07:26:23.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\HoangLong\\HoangLong\\LoginForm.cs",
+              "RelativeDocumentMoniker": "HoangLong\\LoginForm.cs",
+              "ToolTip": "D:\\HoangLong\\HoangLong\\LoginForm.cs",
+              "RelativeToolTip": "HoangLong\\LoginForm.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T13:52:44.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\HoangLong\\HoangLong\\LoginForm.cs",
+              "RelativeDocumentMoniker": "HoangLong\\LoginForm.cs",
+              "ToolTip": "D:\\HoangLong\\HoangLong\\LoginForm.cs [Design]",
+              "RelativeToolTip": "HoangLong\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T13:51:33.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HoangLong\\HoangLong\\Program.cs",
+              "RelativeDocumentMoniker": "HoangLong\\Program.cs",
+              "ToolTip": "D:\\HoangLong\\HoangLong\\Program.cs",
+              "RelativeToolTip": "HoangLong\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T14:17:40.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChangePasswordForm.Designer.cs",
+              "DocumentMoniker": "D:\\HoangLong\\HoangLong\\ChangePasswordForm.Designer.cs",
+              "RelativeDocumentMoniker": "HoangLong\\ChangePasswordForm.Designer.cs",
+              "ToolTip": "D:\\HoangLong\\HoangLong\\ChangePasswordForm.Designer.cs",
+              "RelativeToolTip": "HoangLong\\ChangePasswordForm.Designer.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAowI8AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T03:33:16.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "D:\\HoangLong\\HoangLong\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "HoangLong\\LoginForm.Designer.cs",
+              "ToolTip": "D:\\HoangLong\\HoangLong\\LoginForm.Designer.cs",
+              "RelativeToolTip": "HoangLong\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAowHMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T13:57:25.701Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

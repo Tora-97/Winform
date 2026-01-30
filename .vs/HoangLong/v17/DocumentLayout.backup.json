@@ -1,18 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\HoangLong\\",
+  "WorkspaceRootPath": "D:\\C#\\B\u00E1o_C\u00E1o_WinForm\\HoangLong\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9EA5B022-A067-4B0B-B135-E2731BD0A3C2}|HoangLong\\HoangLong.csproj|d:\\hoanglong\\hoanglong\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EA5B022-A067-4B0B-B135-E2731BD0A3C2}|HoangLong\\HoangLong.csproj|solutionrelative:hoanglong\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9EA5B022-A067-4B0B-B135-E2731BD0A3C2}|HoangLong\\HoangLong.csproj|d:\\c#\\b\u00E1o_c\u00E1o_winform\\hoanglong\\hoanglong\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA5B022-A067-4B0B-B135-E2731BD0A3C2}|HoangLong\\HoangLong.csproj|solutionrelative:hoanglong\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EA5B022-A067-4B0B-B135-E2731BD0A3C2}|HoangLong\\HoangLong.csproj|D:\\HoangLong\\hoanglong\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EA5B022-A067-4B0B-B135-E2731BD0A3C2}|HoangLong\\HoangLong.csproj|solutionrelative:hoanglong\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9EA5B022-A067-4B0B-B135-E2731BD0A3C2}|HoangLong\\HoangLong.csproj|d:\\c#\\b\u00E1o_c\u00E1o_winform\\hoanglong\\hoanglong\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9EA5B022-A067-4B0B-B135-E2731BD0A3C2}|HoangLong\\HoangLong.csproj|solutionrelative:hoanglong\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EA5B022-A067-4B0B-B135-E2731BD0A3C2}|HoangLong\\HoangLong.csproj|D:\\HoangLong\\hoanglong\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9EA5B022-A067-4B0B-B135-E2731BD0A3C2}|HoangLong\\HoangLong.csproj|solutionrelative:hoanglong\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9EA5B022-A067-4B0B-B135-E2731BD0A3C2}|HoangLong\\HoangLong.csproj|d:\\c#\\b\u00E1o_c\u00E1o_winform\\hoanglong\\hoanglong\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA5B022-A067-4B0B-B135-E2731BD0A3C2}|HoangLong\\HoangLong.csproj|solutionrelative:hoanglong\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA5B022-A067-4B0B-B135-E2731BD0A3C2}|HoangLong\\HoangLong.csproj|d:\\c#\\b\u00E1o_c\u00E1o_winform\\hoanglong\\hoanglong\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA5B022-A067-4B0B-B135-E2731BD0A3C2}|HoangLong\\HoangLong.csproj|solutionrelative:hoanglong\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA5B022-A067-4B0B-B135-E2731BD0A3C2}|HoangLong\\HoangLong.csproj|d:\\c#\\b\u00E1o_c\u00E1o_winform\\hoanglong\\hoanglong\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9EA5B022-A067-4B0B-B135-E2731BD0A3C2}|HoangLong\\HoangLong.csproj|solutionrelative:hoanglong\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HoangLong\\HoangLong\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +38,76 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\HoangLong\\HoangLong\\Form1.cs",
-              "RelativeDocumentMoniker": "HoangLong\\Form1.cs",
-              "ToolTip": "D:\\HoangLong\\HoangLong\\Form1.cs",
-              "RelativeToolTip": "HoangLong\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAANkAAAAAAAAAAAAAAA==",
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\C#\\B\u00E1o_C\u00E1o_WinForm\\HoangLong\\HoangLong\\Main.cs",
+              "RelativeDocumentMoniker": "HoangLong\\Main.cs",
+              "ToolTip": "D:\\C#\\B\u00E1o_C\u00E1o_WinForm\\HoangLong\\HoangLong\\Main.cs",
+              "RelativeToolTip": "HoangLong\\Main.cs",
+              "ViewState": "AgIAADsBAAAAAAAAAAAuwFIBAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T06:23:31.225Z",
+              "WhenOpened": "2026-01-30T06:36:47.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\C#\\B\u00E1o_C\u00E1o_WinForm\\HoangLong\\HoangLong\\LoginForm.cs",
+              "RelativeDocumentMoniker": "HoangLong\\LoginForm.cs",
+              "ToolTip": "D:\\C#\\B\u00E1o_C\u00E1o_WinForm\\HoangLong\\HoangLong\\LoginForm.cs",
+              "RelativeToolTip": "HoangLong\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T06:35:54.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\B\u00E1o_C\u00E1o_WinForm\\HoangLong\\HoangLong\\LoginForm.cs",
+              "RelativeDocumentMoniker": "HoangLong\\LoginForm.cs",
+              "ToolTip": "D:\\C#\\B\u00E1o_C\u00E1o_WinForm\\HoangLong\\HoangLong\\LoginForm.cs [Design]",
+              "RelativeToolTip": "HoangLong\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T06:35:52.905Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.Designer.cs",
+              "DocumentMoniker": "D:\\C#\\B\u00E1o_C\u00E1o_WinForm\\HoangLong\\HoangLong\\Main.Designer.cs",
+              "RelativeDocumentMoniker": "HoangLong\\Main.Designer.cs",
+              "ToolTip": "D:\\C#\\B\u00E1o_C\u00E1o_WinForm\\HoangLong\\HoangLong\\Main.Designer.cs",
+              "RelativeToolTip": "HoangLong\\Main.Designer.cs",
+              "ViewState": "AgIAALwBAAAAAAAAAAASwMoBAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T06:35:00.602Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "D:\\HoangLong\\HoangLong\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "HoangLong\\Form1.Designer.cs",
-              "ToolTip": "D:\\HoangLong\\HoangLong\\Form1.Designer.cs",
-              "RelativeToolTip": "HoangLong\\Form1.Designer.cs",
-              "ViewState": "AgIAABYBAAAAAAAAAAAiwCgBAAAyAAAAAAAAAA==",
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\B\u00E1o_C\u00E1o_WinForm\\HoangLong\\HoangLong\\Main.cs",
+              "RelativeDocumentMoniker": "HoangLong\\Main.cs",
+              "ToolTip": "D:\\C#\\B\u00E1o_C\u00E1o_WinForm\\HoangLong\\HoangLong\\Main.cs [Design]",
+              "RelativeToolTip": "HoangLong\\Main.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T07:26:23.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-30T06:34:57.092Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [Design]",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
               "DocumentMoniker": "D:\\HoangLong\\HoangLong\\Form1.cs",
-              "RelativeDocumentMoniker": "HoangLong\\Form1.cs",
-              "ToolTip": "D:\\HoangLong\\HoangLong\\Form1.cs [Design]",
-              "RelativeToolTip": "HoangLong\\Form1.cs [Design]",
+              "RelativeDocumentMoniker": "..\\..\\..\\HoangLong\\HoangLong\\Form1.cs",
+              "ToolTip": "D:\\HoangLong\\HoangLong\\Form1.cs",
+              "RelativeToolTip": "..\\..\\..\\HoangLong\\HoangLong\\Form1.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T06:23:00.261Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-01-09T06:23:31.225Z"
             }
           ]
         }
